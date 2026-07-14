@@ -131,9 +131,7 @@ Sales-Performance-Analysis/
 
 ## 📸 Dashboard Preview
 
-(Add your Power BI dashboard screenshot here after uploading it to GitHub.)
-
----
+![Dashboard](powerbi/sales_dashboard.png)
 
 ## 🚀 Skills Demonstrated
 
