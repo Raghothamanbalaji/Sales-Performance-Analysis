@@ -131,7 +131,7 @@ Sales-Performance-Analysis/
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard](powerbi/sales_dashboard.png)
+![Sales Dashboard](https://raw.githubusercontent.com/Raghothamanbalaji/Sales-Performance-Analysis/main/powerbi/Sales_dashboard.PNG)
 
 ## 🚀 Skills Demonstrated
 
