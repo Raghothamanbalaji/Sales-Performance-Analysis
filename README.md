@@ -131,7 +131,7 @@ Sales-Performance-Analysis/
 
 ## 📸 Dashboard Preview
 
-![Dashboard](powerbi/sales_dashboard.png)
+![Sales Dashboard](powerbi/sales_dashboard.png)
 
 ## 🚀 Skills Demonstrated
 
